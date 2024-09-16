@@ -1,0 +1,20 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Compose feature.kt" file-name="${ROOT_PACKAGE}/${NAME}ViewModel" reformat="true" live-template-enabled="false">
+        <template name="Compose feature.kt.child.5.kt" file-name="${ROOT_PACKAGE}/ui/${NAME}Screen" reformat="true" live-template-enabled="false" />
+        <template name="Compose feature.kt.child.0.kt" file-name="${ROOT_PACKAGE}/${NAME}RouterImpl" reformat="true" live-template-enabled="false" />
+        <template name="Compose feature.kt.child.1.kt" file-name="${ROOT_PACKAGE}/${NAME}Router" reformat="true" live-template-enabled="false" />
+        <template name="Compose feature.kt.child.2.kt" file-name="${ROOT_PACKAGE}/model/${NAME}UiEvent" reformat="true" live-template-enabled="false" />
+        <template name="Compose feature.kt.child.3.kt" file-name="${ROOT_PACKAGE}/model/${NAME}SideEffect" reformat="true" live-template-enabled="false" />
+        <template name="Compose feature.kt.child.4.kt" file-name="${ROOT_PACKAGE}/model/${NAME}State" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Compose feature.kt.child.0.kt" file-name="${ROOT_PACKAGE}/${NAME}RouterImpl" reformat="true" live-template-enabled="false" />
+      <template name="Compose feature.kt.child.1.kt" file-name="${ROOT_PACKAGE}/${NAME}Router" reformat="true" live-template-enabled="false" />
+      <template name="Compose feature.kt.child.2.kt" file-name="${ROOT_PACKAGE}/model/${NAME}UiEvent" reformat="true" live-template-enabled="false" />
+      <template name="Compose feature.kt.child.3.kt" file-name="${ROOT_PACKAGE}/model/${NAME}SideEffect" reformat="true" live-template-enabled="false" />
+      <template name="Compose feature.kt.child.4.kt" file-name="${ROOT_PACKAGE}/model/${NAME}State" reformat="true" live-template-enabled="false" />
+      <template name="Compose feature.kt.child.5.kt" file-name="${ROOT_PACKAGE}/ui/${NAME}Screen" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>
